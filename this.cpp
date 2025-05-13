@@ -14,7 +14,6 @@ class buku{
 };
 int main()
 
-adada
 {
     buku bukunya ;
     cout << bukunya.setget("Matematika");
